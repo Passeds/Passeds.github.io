@@ -430,3 +430,9 @@ CAP**理论**：一个分布式系统不可能同时满足一致性（C： Consi
    3. 解锁：删除自身对应的临时顺序节点（前序节点监听到变化后尝试加锁）。
 
    应用场景：可靠性要求高、能容忍一定性能损耗的场景（如分布式任务调度）。
+
+   <!-- 固定底部落款 -->
+<div style="position: fixed; bottom: 20px; right: 20px; color: #999; font-size: 12px;">
+  © 2025 zheng% | Passeds.github.io
+</div>
+
